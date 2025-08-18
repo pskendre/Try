@@ -15,4 +15,4 @@ public class Core  {
 }
 
 
-//System.out.println(sum);practices at git-consumer
+//System.out.println(sum);modifying consumer at remote
